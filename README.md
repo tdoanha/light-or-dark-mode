@@ -1,4 +1,4 @@
-# CSS-Grid Newspaper
+# Light-or-Dark-Mod
 
 ## What is this project and why are we doing it?
 
